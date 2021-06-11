@@ -1,0 +1,6 @@
+C:\Users\Andile Gumede\Desktop\assessment_master\CoinJar\CoinJar\bin\Debug\CoinJar.exe.config
+C:\Users\Andile Gumede\Desktop\assessment_master\CoinJar\CoinJar\bin\Debug\CoinJar.exe
+C:\Users\Andile Gumede\Desktop\assessment_master\CoinJar\CoinJar\bin\Debug\CoinJar.pdb
+C:\Users\Andile Gumede\Desktop\assessment_master\CoinJar\CoinJar\obj\Debug\CoinJar.csprojResolveAssemblyReference.cache
+C:\Users\Andile Gumede\Desktop\assessment_master\CoinJar\CoinJar\obj\Debug\CoinJar.exe
+C:\Users\Andile Gumede\Desktop\assessment_master\CoinJar\CoinJar\obj\Debug\CoinJar.pdb
